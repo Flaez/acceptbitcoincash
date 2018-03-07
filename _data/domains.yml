@@ -502,6 +502,14 @@ websites:
       facebook: strato
       lang: de
 
+    - name: TekkFolio
+      url: https://tekkfolio.com/
+      img: tekkfolio.png
+      bch: Yes
+      othercrypto: Yes
+      email_address: admin@tekkfolio.com
+      twitter: Blockchain_Name
+
     - name: UK2
       url: https://www.uk2.net/
       img: uk2.png
